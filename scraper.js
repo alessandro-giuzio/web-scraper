@@ -2,7 +2,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 // URL of the page we want to scrape
-const url = 'https://agencyga.es/';
+const url = 'https://www.giuzio.me/books';
 
 // Function to fetch the HTML of the page
 async function fetchHTML(url) {
